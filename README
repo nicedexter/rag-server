@@ -1,0 +1,5 @@
+# RAG testing with llamaindex
+
+npx tsx src/app.ts
+
+Prompt: "Summarize the main themes in these retrieved docs"
